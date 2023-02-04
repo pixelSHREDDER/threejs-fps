@@ -1,0 +1,26 @@
+{
+  "name": "threejs-fps",
+  "version": "0.0.1",
+  "description": "Threejs FPS playground.",
+  "dependencies": {
+    "three": "^0.149.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixelSHREDDER/threejs-fps.git"
+  },
+  "author": "Mike DeVine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixelSHREDDER/threejs-fps/issues"
+  },
+  "homepage": "https://github.com/pixelSHREDDER/threejs-fps#readme"
+}
